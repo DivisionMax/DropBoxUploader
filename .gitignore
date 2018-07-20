@@ -1,0 +1,7 @@
+env
+**/__pycache__
+.vscode
+# Ignore Images
+*.jpg
+*.png
+*.jpeg
